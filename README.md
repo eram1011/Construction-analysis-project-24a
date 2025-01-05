@@ -1,11 +1,6 @@
 # **Streamlining Project Deadlines and Resource Allocation in a Competitive Construction Market** 
-**Harnessing data science to optimize resource allocation, streamline workflows, and enhance decision-making in the construction industry.**
 
----
-
-## **Introduction**  
-
-This project is dedicated to transforming project management and resource allocation for small construction businesses in Riyadh, Saudi Arabia. By addressing critical challenges, we aim to ensure timely project delivery, optimal resource use, and a stronger competitive position in the market.  
+### This project is dedicated to transforming project management and resource allocation for small construction businesses in Riyadh, Saudi Arabia. By addressing critical challenges, we aim to ensure timely project delivery, optimal resource use, and a stronger competitive position in the market.  
 
 ---
 
@@ -110,6 +105,8 @@ I would like to thank:
 - **Mohra Construction Team** for providing real-world data and insights into industry challenges.
 - The **open-source community** for enabling powerful tools and libraries.
 
+---
+
 ## **Project Structure**
 
 Construction-analysis-project-24a/
@@ -121,7 +118,7 @@ Construction-analysis-project-24a/
 │   ├── Proposal.pdf
 │   ├── Streamlining-project-deadlines-and-resource-allocation-in-a-competitive-construction-market.pdf
 ├── examples/                # Sample data and Python scripts
-│   ├── data_analysis.ipynb
+│   ├── sample_analysis.ipynb
 │   ├── sample_invoice_data.csv
 │   ├── sample_month_data.csv
 │   ├── sample_profit_data.csv
@@ -135,3 +132,4 @@ Construction-analysis-project-24a/
 │   ├── raw_data.pdf
 └── .gitignore               # Ensures sensitive files are excluded
 
+---
