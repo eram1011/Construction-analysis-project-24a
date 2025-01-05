@@ -31,9 +31,10 @@
 3. Install the required dependencies (if applicable):
     ```bash
     pip install -r requirements.txt
-4. Run the example script:
-    ```bash
-    python examples/sample_analysis.py
+4. Run the example script using available sample data:
+   Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook examples/sample_analysis.ipynb
 
 ---
 
