@@ -87,7 +87,7 @@ Approaching businesses for this project required a unique blend of technical exp
 
 ### 🌐 Connect with Me
 - GitHub: https://github.com/eram1011
-- Portfolio: https://eram1011.github.io/eram-portfolio.github.io/
+- Portfolio: https://github.com/eram1011/eram-data-analyst-portfolio
 - LinkedIn: https://linkedin.com/in/eram-nishat-4704261a9
 
 ---
